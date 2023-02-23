@@ -5,7 +5,8 @@
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
-    "ios": "expo run:ios",
+    "expo-ios": "expo run:ios",
+    "ios": "react-native run-ios",
     "web": "expo start --web",
     "cleanup": "rm -rf node_modules && yarn cache clean --force && watchman watch-del-all"
   },
