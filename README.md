@@ -2,6 +2,12 @@
 POC to test RN project on xcode 14.2
 
 
+Able to launch app on iOS Simulator by running the command 
+```
+ yarn ios
+ ```
+
+ 
 Facing this error in xcode 
 ```
 2023-02-23 10:34:30.725912+0800 MyReactNative[30968:492764] [connection] nw_socket_handle_socket_event [C1.1.1:2] Socket SO_ERROR [61: Connection refused]
