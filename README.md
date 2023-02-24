@@ -29,3 +29,8 @@ Facing this error in xcode
 Make sure you're running a packager server or have included a .jsbundle file in your application bundle.
 
 ```
+Fix
+
+run 
+react-native start
+followed by build on xcode 14.2
